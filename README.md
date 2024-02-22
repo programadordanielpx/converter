@@ -1,3 +1,5 @@
+Portugues, English, Español 
+
 Redimensionador de Imagens para WebP
 Este é um simples redimensionador de imagens para o formato WebP, utilizando a biblioteca Pica.js.
 
